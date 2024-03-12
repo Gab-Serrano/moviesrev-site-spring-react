@@ -1,7 +1,5 @@
 package dev.devdrilo.moviesrev.movie;
 
-import dev.devdrilo.moviesrev.movie.Movie;
-import dev.devdrilo.moviesrev.movie.MovieRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
